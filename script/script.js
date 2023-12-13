@@ -30,7 +30,7 @@ const quaObjLines = [
 // ovrigt
 
 const otherObj = [
-	{title: 'WordpressSS', info:"", desc:"Har använt och byggt upp flera webbsidor med hjälp av publiceringsverktyget WordPress. Jag byggde också skräddarsydda teman som var anpassade efter kundens behov."},
+	{title: 'Wordpress', info:"", desc:"Har använt och byggt upp flera webbsidor med hjälp av publiceringsverktyget WordPress. Jag byggde också skräddarsydda teman som var anpassade efter kundens behov."},
 	{title: 'SQL', info:'', desc:'Jag är väl införstådd i SQL eftersom min utbildning innehöll kurser i bland annat databashantering, objektorienterad modellering etc.'},
 	{title:'OFFICEPAKETET', info:'', desc:'Goda kunskaper i Word, Excell, PowerPoint'}, 
 	{title: 'SPRÅKKUNSKAPER', info:'', desc: 'Talar och skriver flytande svenska, serbokroatiska (mitt modersmål) och har mycket goda kunskaper i engelska både i skrift och tal.'},
